@@ -4,5 +4,6 @@
    
    
 ## Some ScrenShots of the App
-![](Images/fullNotes.jpg)
+![image](https://github.com/user-attachments/assets/b578181e-19a8-4ab7-bf0e-acf6888f4def)
+
   
